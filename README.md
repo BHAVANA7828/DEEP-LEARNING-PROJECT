@@ -1,4 +1,4 @@
-# DEEP-LEARNING-PROJECT
+<img width="1918" height="1022" alt="Screenshot 2025-08-03 111625" src="https://github.com/user-attachments/assets/2be0e1a1-729b-4a55-accb-fc459e6e9120" /># DEEP-LEARNING-PROJECT
 Deep learning image classification with TensorFlow(cifar-10)
 "COMPANY": CODTECH IT SOLUTIONS
 "NAME": PARASA REDDY BHAVANA
@@ -25,4 +25,7 @@ Visualizes:
 Training & Validation Accuracy over epochs
 Predictions with correct/incorrect classifications highlighted
 Achieves ~70% test accuracy
+
+OUTPUT:
+<img width="1918" height="1022" alt="Screenshot 2025-08-03 111625" src="https://github.com/user-attachments/assets/cb3b1140-0e9d-494e-8bb7-5507bb1acb11" />
 
